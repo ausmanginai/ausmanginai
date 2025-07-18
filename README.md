@@ -12,7 +12,8 @@
 
 
 <h2>Certifications:</h2>
-  - [Certified DevOps Practitioner [Issued by TechWorld with Nana]](https://www.credly.com/badges/a7fb34c4-b1be-4541-9307-fdb5f34a81db/public_url))
+  - [Certified DevOps Practitioner Issued by TechWorld with Nana](https://www.credly.com/badges/a7fb34c4-b1be-4541-9307-fdb5f34a81db/public_url)
+  
   - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/9924dd27-36af-4645-80d7-762f1635019e/linked_in_profile)
 
 ## Hi there 👋
