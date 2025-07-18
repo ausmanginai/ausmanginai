@@ -10,7 +10,7 @@
 - <b>Terraform</b>
   - [Various Terraform Projects](https://github.com/ausmanginai/Terraform/tree/master)
 - <b>Jenkins</b>
-  - [Complete CI/CD Pipeline with Terraform](https://github.com/ausmanginai/Terraform/tree/main)
+  - [Complete CI/CD Pipeline with Terraform](https://github.com/ausmanginai/Terraform/tree/master)
   - [Jenkins Shared Library](https://github.com/ausmanginai/jenkins-shared-library/tree/master)
 - <b>Ansible</b>
   - [Ansible Scripts](https://github.com/ausmanginai/Ansible/tree/master)
