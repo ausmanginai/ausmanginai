@@ -5,7 +5,7 @@
 - <b>Automation with Python</b>
   - https://github.com/ausmanginai/AutomationWithPython
 - <b>Kubernetes</b>
-  - [Deploying Microservices application in Kubernetes cluster (+ using helm)](https://github.com/ausmanginai/Kubernetes-Microservices-application))
+  - [Deploying Microservices application in Kubernetes cluster (+ using helm)](https://github.com/ausmanginai/Kubernetes-Microservices-application)
 - <b>Terraform</b>
   - [Complete CI/CD Pipeline with Terraform](https://github.com/ausmanginai/Terraform/tree/main)
   - [Various other Terraform Projects](https://github.com/ausmanginai/Terraform/tree/master)
