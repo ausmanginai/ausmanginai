@@ -3,7 +3,7 @@
 <h2>👨‍💻 DevOps Projects:</h2>
 
 - <b>Automation with Python</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - https://github.com/ausmanginai/AutomationWithPython
 - <b>Kubernetes</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Terraform</b>
