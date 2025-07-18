@@ -1,6 +1,8 @@
 <h1>Hi, I'm Ausman</h1>
 
-<h2>👨‍💻 DevOps Projects:</h2>
+<h2>👨‍💻 DevOps</h2>
+
+Here below are just some of my projects!
 
 - <b>Python</b>
   - [Automation with Python](https://github.com/ausmanginai/AutomationWithPython)
