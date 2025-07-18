@@ -10,19 +10,10 @@
   - [Complete CI/CD Pipeline with Terraform](https://github.com/ausmanginai/Terraform/tree/main)
   - [Various other Terraform Projects](https://github.com/ausmanginai/Terraform/tree/master)
 
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>Certifications:</h2>
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
+  - [Certified DevOps Practitioner [Issued by TechWorld with Nana]](https://www.credly.com/badges/a7fb34c4-b1be-4541-9307-fdb5f34a81db/public_url))
+  - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/9924dd27-36af-4645-80d7-762f1635019e/linked_in_profile)
 
 ## Hi there 👋
 
