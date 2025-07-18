@@ -6,12 +6,14 @@
   - [Automation with Python](https://github.com/ausmanginai/AutomationWithPython)
 - <b>Kubernetes</b>
   - [Deploying Microservices application in Kubernetes cluster (+ using helm)](https://github.com/ausmanginai/Kubernetes-Microservices-application)
+  - EKS
 - <b>Terraform</b>
   - [Various Terraform Projects](https://github.com/ausmanginai/Terraform/tree/master)
 - <b>Jenkins</b>
   - [Complete CI/CD Pipeline with Terraform](https://github.com/ausmanginai/Terraform/tree/main)
-- <b>EKS</b>
+  - [Jenkins Shared Library](https://github.com/ausmanginai/jenkins-shared-library/tree/master)
 - <b>Ansible</b>
+  - [Ansible Scripts](https://github.com/ausmanginai/Ansible/tree/master)
 - <b>Prometheus</b>
 
 
